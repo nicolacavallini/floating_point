@@ -1,4 +1,6 @@
-# How to get this repo.
+# Floating Point Representation
+
+Lecturer: Nicola Cavallini, *MHPC*
 
 To download this repo using `git`, simply type:
 
