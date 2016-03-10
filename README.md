@@ -2,6 +2,8 @@
 
 Lecturer: Nicola Cavallini, *MHPC*
 
+https://github.com/nicolacavallini/floating_point
+
 To download this repo using `git`, simply type:
 
 ```
